@@ -1,6 +1,6 @@
 {
   "name": "fabscale-eslint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A package to manage eslint configs for Fabscale applications.",
   "main": "index.js",
   "author": "Francesco Novy <francesco@fabscale.com>",
