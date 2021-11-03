@@ -1,0 +1,1 @@
+fabscale-eslint-config
