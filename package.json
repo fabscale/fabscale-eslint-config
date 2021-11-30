@@ -3,6 +3,7 @@
   "version": "1.1.1",
   "description": "A package to manage eslint configs for Fabscale applications.",
   "main": "index.js",
+  "repository": "https://github.com/fabscale/fabscale-eslint-config",
   "author": "Francesco Novy <francesco@fabscale.com>",
   "license": "MIT",
   "private": false,
