@@ -18,7 +18,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-qunit": "^7.0.0",
-    "eslint-plugin-unused-imports": "^1.1.5"
+    "eslint-plugin-unused-imports": "^2.0.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.0",
