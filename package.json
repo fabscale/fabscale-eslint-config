@@ -12,7 +12,7 @@
     "@babel/plugin-syntax-decorators": "^7.16.0",
     "@babel/preset-env": "^7.18.2",
     "@typescript-eslint/eslint-plugin": "^5.3.0",
-    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-ember": "^10.5.7",
     "eslint-plugin-ember-es6-class": "^0.0.1",
     "eslint-plugin-node": "^11.1.0",
